@@ -1,4 +1,4 @@
-# Deep Learning Nanodegree Foundation Notes & Exercises
+# Udacity Deep Learning Nanodegree 
 Notes, coding exercises and projects from Udacity's Deep Learning Nanodegree Foundation program.
 <br>
 
