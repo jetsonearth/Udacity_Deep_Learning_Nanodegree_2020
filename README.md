@@ -4,11 +4,11 @@ Notes, coding exercises and projects from Udacity's Deep Learning Nanodegree Fou
 
 ## Projects
 
-#### **PROJECT 1: Bike Sharing Neural Network** ([Repo](https://github.com/nehal96/Bike-Sharing-Neural-Network))
-#### **PROJECT 2: Image Classification Convolutional Neural Network** ([Repo](https://github.com/nehal96/Image-Classification-CovNet))
-#### **PROJECT 3: Simpsons Script Generation with Recurrent Neural Networks** ([Repo](https://github.com/nehal96/Simpsons-Script-Generation))
-#### **PROJECT 4: English to French Translation with Sequence to Sequence RNN** ([Repo](https://github.com/nehal96/Seq2Seq-Language-Translation))
-#### **PROJECT 5: Face Generation DCGAN** ([Repo](https://github.com/nehal96/Face-Generation-DCGAN))
+#### **PROJECT 1: Predicting Bikesharing Pattern with Neural Networks** ([Repo](https://github.com/jetsonai11/Udacity_Project-Bikesharing))
+#### **PROJECT 2: Dog-Breed Classifier with Convolutional Neural Networks** ([Repo](https://github.com/jetsonai11/Udacity_Project-Dog-Breed-Classifier))
+#### **PROJECT 3: Seinfeld Script Generation with Recurrent Neural Networks** ([Repo](https://github.com/jetsonai11/Udacity_Project-TV-Script-Generation))
+#### **PROJECT 4: Face Generation with Generative Adversarial Networks** ([Repo](https://github.com/jetsonai11/Udacity_Project-Face-Generation))
+#### **PROJECT 5: Deploying a Sentiment Analysis Model with Amazon AWS** ([Repo]
 <br>
 
 ## Handwritten Notes on Lecture Videos
