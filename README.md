@@ -14,9 +14,9 @@ Notes, coding exercises and projects from Udacity's Deep Learning Nanodegree Fou
 ## Handwritten Notes on Lecture Videos
 All handwritten notes generated on iPAD using GoodNotes5 based on lecture videos of each chapter.
 #### **Neural Networks:** ([Repo](https://github.com/jetsonai11/Udacity_Deep_Learning_Nanodegree_2020/tree/master/Handwritten%20Lecture%20Notes/Neural%20Networks%20Lecture%20Notes))
-#### **Convolutional Neural Networks:** ([Repo] (https://github.com/jetsonai11/Udacity_Deep_Learning_Nanodegree_2020/tree/master/Handwritten%20Lecture%20Notes/Convolutional%20Neural%20Networks))
-#### **Recurrent Neural Networks:** ([Repo] (https://github.com/jetsonai11/Udacity_Deep_Learning_Nanodegree_2020/tree/master/Handwritten%20Lecture%20Notes/Recurrent%20Neural%20Networks))
-#### **Generative Adversarial Networks:** ([Repo] (https://github.com/jetsonai11/Udacity_Deep_Learning_Nanodegree_2020/tree/master/Handwritten%20Lecture%20Notes/Generative%20Adversarial%20Networks))
+#### **Convolutional Neural Networks:** ([Repo](https://github.com/jetsonai11/Udacity_Deep_Learning_Nanodegree_2020/tree/master/Handwritten%20Lecture%20Notes/Convolutional%20Neural%20Networks))
+#### **Recurrent Neural Networks:** ([Repo](https://github.com/jetsonai11/Udacity_Deep_Learning_Nanodegree_2020/tree/master/Handwritten%20Lecture%20Notes/Recurrent%20Neural%20Networks))
+#### **Generative Adversarial Networks:** ([Repo](https://github.com/jetsonai11/Udacity_Deep_Learning_Nanodegree_2020/tree/master/Handwritten%20Lecture%20Notes/Generative%20Adversarial%20Networks))
 
 ## Lessons
 
