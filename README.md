@@ -21,7 +21,7 @@ Notes, coding exercises and projects from Udacity's Deep Learning Nanodegree Fou
 <img src="images/face.jpg">
 
 
-### Project 5: Deploying a Sentiment Analysis Model with Amazon AWS ([Repo]
+### Project 5: Deploying a Sentiment Analysis Model with Amazon AWS ([Repo](https://github.com/jetsonai11/Udacity_Project-Deploying-a-Sentiment-Analysis-Model))
 <img src="images/deploy.jpg">
 
 
