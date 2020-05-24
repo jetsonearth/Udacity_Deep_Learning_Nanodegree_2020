@@ -18,6 +18,6 @@ All handwritten notes generated on iPAD using GoodNotes5 based on lecture videos
 ## Lessons
 
 ### 1 - Neural Networks
-#### Introduction to Neural Networks ([Repo](https://github.com/jetsonai11/Udacity_Deep_Learning_Nanodegree_2020/tree/master/intro-neural-networks))
-#### Sentiment Analysis with Andrew ([Repo](https://github.com/jetsonai11/Udacity_Deep_Learning_Nanodegree_2020/tree/master/sentiment-analysis-network))
-#### Deep Learning with PyTorch ([Repo](https://github.com/jetsonai11/Udacity_Deep_Learning_Nanodegree_2020/tree/master/intro-to-pytorch))
+* #### Introduction to Neural Networks ([Repo](https://github.com/jetsonai11/Udacity_Deep_Learning_Nanodegree_2020/tree/master/intro-neural-networks))
+* #### Sentiment Analysis with Andrew ([Repo](https://github.com/jetsonai11/Udacity_Deep_Learning_Nanodegree_2020/tree/master/sentiment-analysis-network))
+* #### Deep Learning with PyTorch ([Repo](https://github.com/jetsonai11/Udacity_Deep_Learning_Nanodegree_2020/tree/master/intro-to-pytorch))
