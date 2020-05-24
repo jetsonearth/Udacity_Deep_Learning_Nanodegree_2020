@@ -4,11 +4,11 @@ Notes, coding exercises and projects from Udacity's Deep Learning Nanodegree Fou
 
 ## Projects
 
-* PROJECT 1: Predicting Bikesharing Pattern with Neural Networks** ([Repo](https://github.com/jetsonai11/Udacity_Project-Bikesharing))
-* PROJECT 2: Dog-Breed Classifier with Convolutional Neural Networks** ([Repo](https://github.com/jetsonai11/Udacity_Project-Dog-Breed-Classifier))
-* PROJECT 3: Seinfeld Script Generation with Recurrent Neural Networks** ([Repo](https://github.com/jetsonai11/Udacity_Project-TV-Script-Generation))
-* PROJECT 4: Face Generation with Generative Adversarial Networks** ([Repo](https://github.com/jetsonai11/Udacity_Project-Face-Generation))
-* PROJECT 5: Deploying a Sentiment Analysis Model with Amazon AWS** ([Repo]
+* PROJECT 1: Predicting Bikesharing Pattern with Neural Networks ([Repo](https://github.com/jetsonai11/Udacity_Project-Bikesharing))
+* PROJECT 2: Dog-Breed Classifier with Convolutional Neural Networks ([Repo](https://github.com/jetsonai11/Udacity_Project-Dog-Breed-Classifier))
+* PROJECT 3: Seinfeld Script Generation with Recurrent Neural Networks ([Repo](https://github.com/jetsonai11/Udacity_Project-TV-Script-Generation))
+* PROJECT 4: Face Generation with Generative Adversarial Networks ([Repo](https://github.com/jetsonai11/Udacity_Project-Face-Generation))
+* PROJECT 5: Deploying a Sentiment Analysis Model with Amazon AWS ([Repo]
 <br>
 
 ## Handwritten Notes on Lecture Videos
