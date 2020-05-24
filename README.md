@@ -5,8 +5,8 @@ Notes, coding exercises and projects from Udacity's Deep Learning Nanodegree Fou
 
 ## Projects
 
-![](/images/bike.jpg =100x20)
-* Project 1: Predicting Bikesharing Pattern with Neural Networks ([Repo](https://github.com/jetsonai11/Udacity_Project-Bikesharing))
+### Project 1: Predicting Bikesharing Pattern with Neural Networks ([Repo](https://github.com/jetsonai11/Udacity_Project-Bikesharing))
+img src="images/bike.jpg">
 * Project 2: Dog-Breed Classifier with Convolutional Neural Networks ([Repo](https://github.com/jetsonai11/Udacity_Project-Dog-Breed-Classifier))
 * Project 3: Seinfeld Script Generation with Recurrent Neural Networks ([Repo](https://github.com/jetsonai11/Udacity_Project-TV-Script-Generation))
 * Project 4: Face Generation with Generative Adversarial Networks ([Repo](https://github.com/jetsonai11/Udacity_Project-Face-Generation))
