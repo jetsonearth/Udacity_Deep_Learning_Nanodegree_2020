@@ -1,6 +1,7 @@
 # Udacity Deep Learning Nanodegree 
 Notes, coding exercises and projects from Udacity's Deep Learning Nanodegree Foundation program.
 <br>
+![Image description](images/AI.jpg)
 
 ## Projects
 
