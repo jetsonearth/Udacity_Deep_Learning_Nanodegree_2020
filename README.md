@@ -60,3 +60,6 @@ All handwritten notes generated on iPAD using GoodNotes5 based on lecture videos
 * Deep Convolutional GANs ([Repo](https://github.com/jetsonai11/Udacity_Deep_Learning_Nanodegree_2020/tree/master/dcgan-svhn))
 * Implementing a CycleGAN ([Repo](https://github.com/jetsonai11/Udacity_Deep_Learning_Nanodegree_2020/tree/master/cycle-gan))
 
+## Graduation Certificate
+<img src="images/1.jpg">
+
