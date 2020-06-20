@@ -5,12 +5,26 @@ Notes, coding exercises and projects from Udacity's Deep Learning Nanodegree Fou
 
 ## Projects
 
-* PROJECT 1: Predicting Bikesharing Pattern with Neural Networks ([Repo](https://github.com/jetsonai11/Udacity_Project-Bikesharing))
-* PROJECT 2: Dog-Breed Classifier with Convolutional Neural Networks ([Repo](https://github.com/jetsonai11/Udacity_Project-Dog-Breed-Classifier))
-* PROJECT 3: Seinfeld Script Generation with Recurrent Neural Networks ([Repo](https://github.com/jetsonai11/Udacity_Project-TV-Script-Generation))
-* PROJECT 4: Face Generation with Generative Adversarial Networks ([Repo](https://github.com/jetsonai11/Udacity_Project-Face-Generation))
-* PROJECT 5: Deploying a Sentiment Analysis Model with Amazon AWS ([Repo]
-<br>
+### Project 1: Predicting Bikesharing Pattern with Neural Networks ([Repo](https://github.com/jetsonai11/Udacity_Project-Bikesharing))
+<img src="images/bike.jpg">
+
+
+### Project 2: Dog-Breed Classifier with Convolutional Neural Networks ([Repo](https://github.com/jetsonai11/Udacity_Project-Dog-Breed-Classifier))
+<img src="images/dog.png">
+
+
+### Project 3: Seinfeld Script Generation with Recurrent Neural Networks ([Repo](https://github.com/jetsonai11/Udacity_Project-TV-Script-Generation))
+<img src="images/tv.jpg">
+
+
+### Project 4: Face Generation with Generative Adversarial Networks ([Repo](https://github.com/jetsonai11/Udacity_Project-Face-Generation))
+<img src="images/face.jpg">
+
+
+### Project 5: Deploying a Sentiment Analysis Model with Amazon AWS ([Repo](https://github.com/jetsonai11/Udacity_Project-Deploying-a-Sentiment-Analysis-Model))
+<img src="images/deploy.jpg">
+
+
 
 ## Handwritten Notes on Lecture Videos
 All handwritten notes generated on iPAD using GoodNotes5 based on lecture videos of each chapter.
@@ -45,4 +59,7 @@ All handwritten notes generated on iPAD using GoodNotes5 based on lecture videos
 * Generative Adversarial Networks ([Repo](https://github.com/jetsonai11/Udacity_Deep_Learning_Nanodegree_2020/tree/master/gan-mnist))
 * Deep Convolutional GANs ([Repo](https://github.com/jetsonai11/Udacity_Deep_Learning_Nanodegree_2020/tree/master/dcgan-svhn))
 * Implementing a CycleGAN ([Repo](https://github.com/jetsonai11/Udacity_Deep_Learning_Nanodegree_2020/tree/master/cycle-gan))
+
+## Graduation Certificate
+<img src="images/1.jpg">
 
